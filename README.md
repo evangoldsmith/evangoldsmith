@@ -1,7 +1,7 @@
 Hi 👋 My name is Evan Goldsmith
 ===============================
 
-CS Student and Web Developer
+CS Student and Software Developer
 ---------------------------
 
 * 🌍  I'm based in Orlando, Florida
