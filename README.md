@@ -7,6 +7,7 @@ CS Student and Software Developer
 * 🌍  I'm based in Orlando, Florida
 * 🖥️  See my portfolio at [my website](http://evangoldsmith.github.io/evan-portfolio//)
 * ✉️  You can contact me at [evangoldsmith1@gmail.com](mailto:evangoldsmith1@gmail.com)
+* 🏀  I have been working on [my Twitter bot](https://twitter.com/BasketBrainBot) that predicts NBA games with logistic regression. You can see the project [here](https://github.com/evangoldsmith/nba-regression)
 * 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on interesting projects
 
@@ -31,5 +32,3 @@ CS Student and Software Developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/evangoldsmith"><img src="https://github-readme-stats.vercel.app/api?username=evangoldsmith&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="evangoldsmith's GitHub stats" /></a>
-
-<a href="https://github.com/evangoldsmith" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evangoldsmith&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
