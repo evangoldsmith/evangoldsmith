@@ -5,7 +5,7 @@ CS Student and Software Developer
 ---------------------------
 
 * 🌍  I'm based in Orlando, Florida
-* 🖥️  See my portfolio at [my website](https://evan.gold)
+* 🖥️  See my portfolio at [my website](https://evangoldsmith.dev)
 * ✉️  You can contact me at [evangoldsmith1@gmail.com](mailto:evangoldsmith1@gmail.com)
 * 🏀  I have been working on [my Twitter bot](https://twitter.com/BasketBrainBot) that predicts NBA games with logistic regression. You can see the project [here](https://github.com/evangoldsmith/nba-regression)
 * 🧠  I'm learning React.js
